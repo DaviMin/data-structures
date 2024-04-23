@@ -1,5 +1,6 @@
 
 class Price:
+    # nadefinovat magic methodes pro matematicke operace
     def __init__(self, integer, fraction):
         self.__integer = integer
         self.__fraction = fraction
