@@ -1,0 +1,21 @@
+Pizza app
+
+co umi hlavni menu
+-> zadat novou objednavku
+-> zjistit stav objednavky
+-> vybavit objednavku
+
+co aplikace bude potrebovat:
+-> class Pizza, class Topping (priloha an pizzu)
+-> class Order
+-> class Price
+-> class Queue - pracuje s objednavkama
+
+-> vytisknout menu - print_main_menu()
+-> vytisknout polozky k objednani - print_pizza_menu
+-> vytisknout objednavkovy formular (?)
+
+
+-> zjistit stav objednavky check_order_state()
+
+-> odbaveni objednavky - delete_ready_order()

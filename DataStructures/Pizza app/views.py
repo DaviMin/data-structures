@@ -1,0 +1,1 @@
+# jako views se bezne oznacuji vizualy(okna)
